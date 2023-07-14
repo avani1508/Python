@@ -1,0 +1,39 @@
+print("Hello")
+-----------------------------------------------------------------------------------------------------------------------------
+a=5
+b=6
+print(a+b)
+
+print("Addition of",a,"and",b,"=",a+b)
+o/p:-
+name=input("Enter your name")
+print(name)
+--------------------------------------------------------------------------------------------------------------------------------------
+print("welcome Mrs. ",name)
+---------------------------------------------------------------------------------------------------------------------------------------
+a=input("Enter 1st Number")
+b=input("Enter 2nd Number")
+c=a+b
+print("Addition is=",c)
+
+o/p:-
+a=int(input("Enter 1st Number"))
+b=int(input("Enter 2nd Number"))
+c=a+b
+print("Addition is=",c)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+a=int(input("Enter 1st Number"))
+b=int(input("Enter 2nd Number")).
+add=a+b
+sub=a-b
+mul=a*b
+div=a/b
+exp=a**b
+fldiv=a//b
+print("Addition is=",add)
+print("Subtraction=",sub)
+print("Multiplication =",mul)
+print("Division=",div)
+print("Exponential=",exp)
+print("Floor Division=",fldiv)
